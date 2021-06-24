@@ -5,3 +5,5 @@ Unity and allows the user, with an Oculus Quest headset, to
 immerse themselves into a forest. Senses that are aligned
 between the virtual and real-world include vision, sound,
 touch, and smell
+
+<img src="https://github.com/miyu0201/VR-Meditation-app-Project/blob/main/game screen.PNG" width="900">
